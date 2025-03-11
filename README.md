@@ -1,5 +1,5 @@
 <div align="center">
-<img src="    https://stringspace.s3.ap-south-1.amazonaws.com/string-fullform-logo.png" style="height: 120px">
+<img src="https://stringlab.org/img/string-black-logo.png" style="height: 120px">
 
 ## No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 
@@ -49,20 +49,17 @@ Automate critical business processes that involve complex documents with a human
 Next, either download a release or clone this repo and do the following:
 
 ✅ `./run-platform.sh`<br>
-✅ Now visit [http://frontend.unstract.localhost](http://frontend.unstract.localhost) in your browser <br>
+✅ Now visit [http://frontend.stringlabtech.localhost](http://frontend.stringlabtech.localhost) in your browser <br>
 ✅ Use username and password `unstract` to login
 
 
 That's all there is to it!
 
 Follow [these steps](backend/README.md#authentication) to change the default username and password.  
-See [user guide](https://docs.unstract.com/unstract/unstract_platform/user_guides/run_platform) for more details on managing the platform.  
-
-Another really quick way to experience Unstract is by signing up for our [hosted version](https://us-central.unstract.com/). It comes with a 14 day free trial!
 
 ## ⏩ Quick Start Guide
 
-Unstract comes well documented. You can get introduced to the [basics of Unstract](https://docs.unstract.com/unstract/), and [learn how to connect](https://docs.unstract.com/unstract/unstract_platform/setup_accounts/whats_needed) various systems like LLMs, Vector Databases, Embedding Models and Text Extractors to it. The easiest way to wet your feet is to go through our [Quick Start Guide](https://docs.unstract.com/unstract/unstract_platform/quick_start) where you actually get to do some prompt engineering in Prompt Studio and launch an API to structure varied credit card statements!
+Stringlabtech Unstract comes well documented. You can get introduced to the [basics of Unstract](https://docs.unstract.com/unstract/), and [learn how to connect](https://docs.unstract.com/unstract/unstract_platform/setup_accounts/whats_needed) various systems like LLMs, Vector Databases, Embedding Models and Text Extractors to it. The easiest way to wet your feet is to go through our [Quick Start Guide](https://docs.unstract.com/unstract/unstract_platform/quick_start) where you actually get to do some prompt engineering in Prompt Studio and launch an API to structure varied credit card statements!
 
 ## 🤝 Ecosystem support
 
@@ -141,12 +138,6 @@ Unstract comes well documented. You can get introduced to the [basics of Unstrac
 ## 🙌 Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for further details to get started easily.
-
-## 👋 Join the LLM-powered automation community
-
-- On Slack, [join great conversations](https://join-slack.unstract.com) around LLMs, their ecosystem and leveraging them to automate the previously unautomatable!
-- [Follow us on X/Twitter](https://twitter.com/GetUnstract)
-- [Follow us on LinkedIn](https://www.linkedin.com/showcase/unstract/)
 
 ## 🚨 Backup encryption key
 
