@@ -1,7 +1,5 @@
 <div align="center">
-<img src="docs/assets/unstract_u_logo.png" style="height: 120px">
-
-# Unstract
+<img src="    https://stringspace.s3.ap-south-1.amazonaws.com/string-fullform-logo.png" style="height: 120px">
 
 ## No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 
@@ -23,7 +21,7 @@
 Prompt Studio's primary reason for existence is so you can develop the necessary prompts for document data extraction super efficiently. It is a purpose-built environment that makes this not just easy for you—but, lot of fun! The document sample, its variants, the prompts you're developing, outputs from different LLMs, the schema you're developing, costing details of the extraction and various tools that let you measure the effectiveness of your prompts are just a click away and easily accessible. Prompt Studio is designed for effective and high speed development and iteration of prompts for document data extraction. Welcome to IDP 2.0!
 
 
-![img Prompt Studio](docs/assets/prompt_studio.png)
+![img Prompt Studio](https://stringspace.s3.ap-south-1.amazonaws.com/window_snap.png)
 
 ## 🧘‍♀️ Three step nirvana with Workflow Studio
 
